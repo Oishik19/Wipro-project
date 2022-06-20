@@ -1,0 +1,10 @@
+
+#rcorners2 {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 5px; 
+  width: 300px;
+  height: 150px;  
+ display:inline-block;
+    margin:5%;
+}
